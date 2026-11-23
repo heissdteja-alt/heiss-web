@@ -47,7 +47,7 @@ Reglas: nada inventado (clientes, métricas, testimonios) y proyectos privados s
 
 ## Enlaces pendientes
 
-LinkedIn y Upwork están ocultos hasta que se llenen en el objeto `LINKS` al inicio de `js/main.js`. El año de fundación está en `index.html` (`about.founded`) y en `EN['about.founded']`.
+Los enlaces de LinkedIn y Upwork del pie están ocultos hasta que se llenen en el objeto `LINKS` al inicio de `js/main.js`.
 
 ## Publicar (Cloudflare Pages)
 
