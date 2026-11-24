@@ -8,7 +8,7 @@
     upwork: ''    // TODO: URL de Upwork
   };
 
-  var WA = 'https://wa.me/524771804057';
+  var WA = 'https://wa.me/524794566009';
   var STORAGE_KEY = 'heiss-lang';
 
   // English strings. Spanish is the source text already in the HTML.
